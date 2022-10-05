@@ -1,0 +1,20 @@
+.peach {
+    background-color: #ffdab9;
+    font-size: 18 px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.bold {
+    font-size: 36px;
+
+}
+
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#four {
+    background-color: hsl(120, 29%, 49%);
+    font-weight: bold;
+}
